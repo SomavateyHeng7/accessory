@@ -17,7 +17,7 @@ body {
 /* Heading styles */
 h1 {
     text-align: center;
-    color: #4CAF50;
+    color: #6600;
     margin-bottom: 20px;
 }
 
@@ -47,7 +47,7 @@ form input[type="number"] {
 
 form button {
     display: inline-block;
-    background-color: #4CAF50;
+    background-color: #660033;
     color: white;
     padding: 10px 20px;
     border: none;
@@ -58,7 +58,7 @@ form button {
 }
 
 form button:hover {
-    background-color: #45a049;
+    background-color: #660033;
 }
 
 /* Table styling */
@@ -80,12 +80,12 @@ table thead {
 }
 
 table th {
-    background-color: #4CAF50;
+    background-color: #660033;
     color: white;
 }
 
 table tbody tr:nth-child(even) {
-    background-color: #f2f2f2;
+    background-color: #ba577a;
 }
 
 table tfoot td {
